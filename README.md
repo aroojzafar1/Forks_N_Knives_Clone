@@ -21,7 +21,7 @@ JavaScript: For interactivity and dynamic content.
 
 How to setup ?
 
-git clone 
+git clone https://github.com/aroojzafar1/Forks_N_Knives_Clone.git
 
 Open index.html in your browser to view the project.
 
